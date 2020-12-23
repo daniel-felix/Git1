@@ -58,7 +58,7 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="VARIAVEL">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">HELLO WORLD</Literal>
+          <Literal x:TypeArguments="x:String">HELLO WORLD 2</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
